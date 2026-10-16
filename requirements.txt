@@ -1,0 +1,6 @@
+streamlit
+pandas
+google-cloud-firestore
+psycopg2-binary
+SQLAlchemy
+psycopg-binary
